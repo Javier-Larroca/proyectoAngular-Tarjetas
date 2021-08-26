@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBTarjeta", "FBTarjeta\FBTarjeta.csproj", "{E10653E0-78B9-41F9-82EC-9C6086811575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10653E0-78B9-41F9-82EC-9C6086811575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10653E0-78B9-41F9-82EC-9C6086811575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10653E0-78B9-41F9-82EC-9C6086811575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10653E0-78B9-41F9-82EC-9C6086811575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A8C48B-DC38-4CEC-B73F-607BC91274E6}
+	EndGlobalSection
+EndGlobal
